@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website developed as part of my **Fronte
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 Hi, I'm **Naddi Mounika**, a Computer Science Engineering student passionate about:
 
@@ -23,7 +23,7 @@ I enjoy building modern web applications and AI-powered solutions while continuo
 
 This portfolio was created during my **FlyRank Frontend AI Engineering Internship**.
 
-The objective of this project was to:
+### Objectives
 
 - Design a professional portfolio website
 - Build a responsive user interface
@@ -39,18 +39,19 @@ The objective of this project was to:
 - Responsive Design
 - Modern UI
 - Animated Background
-- Bootstrap Components
 - Glassmorphism Cards
+- Bootstrap Components
 - Smooth Navigation
 - Typing Animation
+- About Section
 - Skills Section
 - Projects Showcase
 - Internship Experience
 - Education Section
 - Certifications Section
 - Contact Section
-- Download Resume Button
-- GitHub & LinkedIn Links
+- Download Resume
+- GitHub, LinkedIn & Email Links
 
 ---
 
@@ -67,7 +68,7 @@ The objective of this project was to:
 
 # 📂 Project Structure
 
-```
+```text
 Portfolio/
 │
 ├── index.html
@@ -82,19 +83,18 @@ Portfolio/
 ├── images/
 │   ├── project1.png
 │   ├── project2.png
-│   
 │
 ├── resume/
 │   └── Naddi_Mounika_Resume.pdf
 │
-└── assets/
+└── screenshots/
 ```
 
 ---
 
 # 💼 Featured Projects
 
-### 💰 AI Expense Tracker
+## 💰 AI Expense Tracker
 
 - Flask-based Expense Tracker
 - Secure User Authentication
@@ -109,12 +109,12 @@ Portfolio/
 
 ---
 
-### 🎓 Student Management System
+## 🎓 Student Management System
 
 - Student Record Management
 - Attendance Tracking
-- SQLite Database
 - CRUD Operations
+- SQLite Database
 
 **Technologies**
 
@@ -127,8 +127,8 @@ Portfolio/
 # 💻 Technical Skills
 
 - Python
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Bootstrap
 - Flask
@@ -143,9 +143,7 @@ Portfolio/
 
 # 💼 Internship Experience
 
-## Frontend AI Engineering Intern
-
-**FlyRank**
+## Frontend AI Engineering Intern – FlyRank
 
 - Developed responsive frontend interfaces
 - Worked on AI-powered web applications
@@ -154,12 +152,11 @@ Portfolio/
 
 ---
 
-## Artificial Intelligence Intern
+## Artificial Intelligence Intern – CodeAlpha
 
-**CodeAlpha**
-
-- Built AI and Machine Learning projects
-- Applied Python for AI development
+- Built Artificial Intelligence projects
+- Applied Machine Learning concepts
+- Developed Python applications
 - Improved analytical and problem-solving skills
 
 ---
@@ -187,7 +184,37 @@ JNTUH University College of Engineering, Rajanna Sircilla
 
 ---
 
+# 📸 Screenshots
 
+## 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## 👤 About Section
+
+![About Section](screenshots/about.png)
+
+---
+
+## 🛠️ Skills Section
+
+![Skills Section](screenshots/skills.png)
+
+---
+
+## 🚀 Projects Section
+
+![Projects Section](screenshots/projects.png)
+
+---
+
+## 📞 Contact Section
+
+![Contact Section](screenshots/contact.png)
+
+---
 
 # 📄 Resume
 
@@ -213,21 +240,27 @@ https://github.com/naddimounika09
 
 **LinkedIn**
 
-www.linkedin.com/in/naddimounika7674109309072006
+https://www.linkedin.com/in/naddimounika7674109309072006/
 
 ---
 
 # 🚀 How to Run
 
-1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/naddimounika09/AI-Portfolio.git
 ```
 
-2. Open the project folder.
+### Open the project folder
 
-3. Open `index.html` in your browser.
+```text
+AI-Portfolio
+```
+
+### Run the project
+
+Open `index.html` in your preferred web browser.
 
 No installation is required.
 
@@ -241,8 +274,8 @@ This project was successfully completed as part of my **Frontend AI Engineering 
 
 # 📜 License
 
-This project is for educational and portfolio purposes.
+This project is intended for educational, internship, and portfolio purposes.
 
 ---
 
-## ⭐ If you like this project, consider giving it a star on GitHub!
+## ⭐ If you found this project helpful, consider giving it a star on GitHub!
